@@ -1,0 +1,4 @@
+name: Shield
+main: ${project.main}
+version: ${project.version}
+author: xadia
